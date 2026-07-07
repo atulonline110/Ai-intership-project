@@ -1,2 +1,2 @@
-Sckit-Learn
+Scikit-Learn
 Tensorflow
